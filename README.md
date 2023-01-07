@@ -93,3 +93,8 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 # C-Users-Shinra-Documents-tribute
+
+  <p class="first"> 
+      New   Home    Popular     Trending
+    </p>
+# -Moses-Acheme-C-Users-Shinra-Documents-Fontend-Mentor
